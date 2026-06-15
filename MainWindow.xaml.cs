@@ -14,7 +14,7 @@ namespace CyberBot_PART_3
     {
         private CyberBot cyberBot;
 
-        // DELEGATE DECLARATION (for POE marks)
+        // DELEGATE DECLARATION 
         public delegate void MessageDelegate(string message);
         private MessageDelegate _messageDelegate;
 
