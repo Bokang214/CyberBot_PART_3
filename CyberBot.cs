@@ -4,7 +4,7 @@ using System.Threading;
 
 namespace CyberBot_PART_3
 {
-    // ORIGINAL CLASS from Part 1 — preserved exactly, namespace updated to PART_3
+    // original CLASS from Part 1 — preserved exactly, namespace updated to PART_3
     public class CyberBot
     {
         private string userName = string.Empty;
